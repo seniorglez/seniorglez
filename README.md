@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **d.dominguez.glez1111@gmail.com**
 
-- ⚡ Fun fact **I like trains**
+- ⚡ Fun fact **Using Arch btw**
 
 
 <h3 align="left">Languages and Tools:</h3>
