@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diego</h1>
 <h3 align="center">A passionate data engineer from Spain</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seniorglez" alt="seniorglez" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seniorglez" alt="seniorglez" /></a> </p>
 
 - 🌱 I’m currently learning **Python**
 
@@ -17,3 +17,4 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=seniorglez&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seniorglez&theme=tokyonight)
+
