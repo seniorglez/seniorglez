@@ -8,7 +8,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seniorglez&theme=tokyonight" height="230em">
 </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **Java**
 
